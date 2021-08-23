@@ -1,0 +1,163 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>App Store submission: 9 hidden hazards.</mj-title>
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="10px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  </mj-head>
+  <mj-body >
+    
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/bc3fdc9f-d401-e5c2-394c-476627abaf87.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">Imagine such a situation: you have developed a project in 3 months (!), tested the app — everything is okay. You send the build to QA testers from Apple and get a denial. You fixed all the bugs, then you send the updated version but the App Store refuses to release it again.</mj-text>
+        <mj-text css-class="text" mj-class="text">So the release of an app can take a long time — weeks or even months. Sharing our insights on how to prepare a project for release and launch it in short order.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Purchase details</mj-text>
+        <mj-text css-class="text" mj-class="text">The App Store guys need to make sure that there are no surprises for users when they tap the “Purchase” button. Users need to know what exactly they are buying. The App Store can’t submit an app, which doesn’t describe how its subscription works.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Managing subscriptions</mj-text>
+        <mj-text css-class="text" mj-class="text">Add an opportunity for users to cancel subscription, and redirect them to global settings of Apple ID. It works this way: users tap the “Cancel subscription” button  and the app redirects them to the native screen of iOS, where they can see all subscriptions.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Blocking content and users</mj-text>
+        <mj-text css-class="text" mj-class="text">Add the opportunity to “complain” in case admins or users need to block any content that implies cruelty, pornography, descrimination of minorities or advertisment of illicit substances. If there is a chat in the app, you need a feature to block the user.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Account for testers</mj-text>
+        <mj-text css-class="text" mj-class="text">The App Store guys won’t sign up for the app every time they need to test it. Create a test account for the Apple team to reduce the probability that your app will be rejected.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Screenshots of an app without alpha channel</mj-text>
+        <mj-text css-class="text" mj-class="text">The App Store accepts screenshots only in .png and .jpeg format and without alpha channels. It means that a picture shouldn’t have transparent areas. So you need to turn off the alpha channel when you save the finished version of a screenshot.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Infos about users</mj-text>
+        <mj-text css-class="text" mj-class="text">“We need the user’s geolocation because...”. Without a distinct answer and profit for users the App Store won’t submit the app. This rule refers to all the user’s data: gallery, camera, microphone, geolocation and contacts.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Native payment methods</mj-text>
+        <mj-text css-class="text" mj-class="text">If an app offers users to turn off advertisements for a price, restock in-game resources or open paid features — you can’t use external payment services. You have to use Apple In-App Purchases, the native payment system.</mj-text>
+        <mj-text css-class="text" mj-class="text">If you want an auto-renewal of subscriptions — get permission from the App Store. In iOS guidelines there is a detailed instruction on how you can do it with examples and explanations.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">A product niche</mj-text>
+        <mj-text css-class="text" mj-class="text">If an app is related to religion, sports bettings or refers to a category “For children” — you should be ready for long negotiations with Apple. The App Store team examines such apps more carefully. The first time we came across it was while we were releasing PrayerX — an app for prayers.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Terms of Use & Privacy Policy</mj-text>
+        <mj-text css-class="text" mj-class="text">The App Store testers always pay attention, if Terms of Use and Privacy Policy are included in the app. You should add these documents to the app and create a web-page for each of them. Without Terms of Use and Privacy Policy the access to the App Store is closed.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">What else?</mj-text>
+         <mj-table mj-class="text">
+          <tr style="text-align:left;">
+            <th style="padding: 0 15px 0 0;"></th>
+            <th></th>
+          </tr>
+          <tr>
+            <td style="padding: 0 10px 0 0; text-align: center;"> 
+              <img width="6" src='https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/7e399dd3-ac37-250f-eab9-bbf4dda95896.png' />
+            </td>
+            <td style="padding: 0 0 8px 20px;">Analyze all App Store Review guidelines. All information on how to go through the review process of the App Store is presented there.</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 10px 0 0; text-align: center;"> 
+              <img width="6" src='https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/7e399dd3-ac37-250f-eab9-bbf4dda95896.png' />
+            </td>
+            <td style="padding: 0 0 8px 20px;">Google the popular rejection reasons if you don’t want to fall into line with those who have already made typical mistakes. </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 10px 0 0; text-align: center;"> 
+              <img width="6" src='https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/7e399dd3-ac37-250f-eab9-bbf4dda95896.png' />
+            </td>
+            <td style="padding: 0 0 8px 20px;">Share all the information that the App Store requires — “the more — the merrier” is a good rule here. And the successful release will be within reach.</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">If the app is rejected — don’t worry. Apple’s testers can treat the rules in various ways. You may get approved at the second, third, fourth try — this is quite normal. Be persistent, open and polite. And then there’ll be an app release for you!</mj-text>
+      </mj-column>
+    </mj-section>
+   <mj-section css-class="post-section post-section--main" mj-class="post-section" >
+      <mj-column >
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center"><b>How to prepare for release in the App Store and launch the project quickly — more about it at the link below</b></mj-text>
+        <mj-button css-class="post-section__button" href="https://www.purrweb.com/services/ui-ux/?utm_source=email&utm_medium=from-amocrm&utm_campaign=app-store-submission" mj-class="post-section__button">Want some details!</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Dmitrieva 1/8, Omsk, Russia, 644123 <br/>2021 Purrweb. All rights reserved</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center">
+        <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=03b481897c" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+  </mj-body>
+</mjml>

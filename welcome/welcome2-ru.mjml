@@ -1,0 +1,101 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>Привет! В этом письме расскажем про UI/UX дизайн и его важность для MVP</mj-title>
+      <mj-class name="title" font-size="14px" line-height="18px" font-weight="bold" padding-bottom="8px"></mj-class>
+      <mj-class name="mini-title" font-size="12px" line-height="18px" font-weight="bold" text-transform="uppercase" padding-bottom="5px"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="post-section" background-color="#fff" />
+      <mj-class name="post-section__text" padding-top="22px" />
+      <mj-class name="button" padding-top="20px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      #canspamBarWrapper {
+        display: none !important;
+      }
+    </mj-style>
+  </mj-head>
+  </mj-head>
+  <mj-body >
+    
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/f125087c-a33c-12e2-4a68-ad92b613b70b.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="text">Любому минимально жизнеспособному продукту нужен хороший дизайн. Что такое хороший дизайн? Это когда продукт притягивает людей: как пользователей, так и инвесторов.</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">UI/UX дизайн может сделать 2 вещи:</mj-text>
+            <mj-text mj-class="text">1) помочь приложению взлететь в топ App Store и Play Market;</mj-text>
+            <mj-text mj-class="text">2) испортить самую крутую идею.</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">Правильный UI/UX дизайн для MVP</mj-text>
+            <mj-text mj-class="text">UI/UX дизайн начинается перед разработкой проекта: проектируется информационная архитектура продукта, прописываются User Stories, рисуются макеты. Эти процессы помогают точнее определить стоимость разработки проекта. Но важность UI/UX дизайна на этом не заканчивается:</mj-text>
+            <mj-text mj-class="text"> — помогает выделиться на фоне конкурентов;</mj-text>
+            <mj-text mj-class="text"> — привлекает и удерживает пользователей в приложении;</mj-text>
+            <mj-text mj-class="text"> — мотивирует совершить целевое действие (например, заказать еду или купить продукт).</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="post-section post-section--main" mj-class="post-section">
+      <mj-column >
+        <mj-image href="https://www.purrweb.com/portfolio/ru" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/470fdde6-4314-0e08-0689-787d32653909.png" />
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center">Посмотрите на работы наших дизайнеров.</mj-text>
+        <mj-button mj-class="button" href="https://www.purrweb.com/portfolio/ru" mj-class="post-section__button">Открыть портфолио</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">«M» — минимальный</mj-text>
+            <mj-text mj-class="text">У MVP есть минимальный набор функций, который нужен для тестирования идеи. Это и означает «минимальный» в MVP. Продукту нужны только те функции, которые вы определили как критически необходимые для демонстрации его концепции. Остальные функции откладываются на потом, чтобы не растягивать срок разработки и бюджет проекта.</mj-text>
+
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">«V» — жизнеспособный</mj-text>
+            <mj-text mj-class="text">От UI/UX дизайна зависит, будет ли проект жизнеспособным. Бизнес-аналитик составляет User Stories, а дизайнеры проектируют их в майндмэпе. Неудобное приложение — гарант того, что человек уйдет к конкурентам, удобное — что он будет возвращаться в ваше приложение снова и снова.</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">«P» — продукт</mj-text>
+            <mj-text mj-class="text">Мы рассказали, чем полезен UI/UX дизайн, но хотим еще добавить, что он может убедить потенциальных инвесторов в перспективности бизнес-идеи. В 2017 году мы разработали кликабельный прототип медицинского стартапа для 2 студентов. С нашим дизайном они смогли заинтересовать инвесторов и получили $400 тыс. на разработку приложения. Подробнее поговорим об этом в следующем письме.</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="text">Мы с нуля построили дизайн-процесс и сделали его прозрачным, поэтому можем постоянно отслеживать прогресс проекта и адаптировать рабочие процессы под меняющиеся требования.</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="text" align="center" padding-bottom="0">
+                Больше о нашем подходе к <br />дизайну по кнопке 👇🏻
+            </mj-text>
+            <mj-button mj-class="button" href="https://www.purrweb.com/portfolio/ru">
+                Наши дизайн-процессы
+            </mj-button>
+        </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Дмитриева 1/8, Омск, Россия, 644123 <br/>2021 Purrweb. Все права защищены</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center"><a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=2708541522" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

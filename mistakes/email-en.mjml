@@ -1,0 +1,116 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>We don't hide mistakes, we fix them</mj-title>
+      <!-- <mj-text padding="0 8.6%"></mj-text> -->
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="10px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      .rectangle {
+        display: inline-block;
+        width: 6px;
+        height: 6px;
+        background-color: #000000;
+        margin-right: 20px;
+      }
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body >
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/4d6500cd-dc1a-6bc4-beab-2c451cdffdab.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">How to make sure that an agency has enough credibility to entrust your idea, money and time to them? Everyone is trying to look perfect, like a Disney princess. Seems like they never stumbled upon anything from the very beginning.</mj-text>
+        <mj-text css-class="text" mj-class="text">Purrweb team is not a ‘young, innovative, dynamically developing, result-oriented company’. Purrweb team is first of all people who can make mistakes, just like anyone. This time, we will tell you about our previous design process, problems we faced and how hard was the journey we’ve made.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Pretty, but not useful</mj-text>
+        <mj-text css-class="text" mj-class="text">Earlier, we didn’t have a lot of projects in our portfolio. But we needed to show our skills to clients, so we offered them quick design concepts. Deadline — 2 days. Not very much, that’s why we tried to do everything quickly. Designers wouldn’t be able to think the logic of the app through. On the way out we had a pretty concept, but not effective. When designers were preparing the rest of the visuals, we needed to give up on many elements and explain that to the client.</mj-text>
+        <mj-text css-class="text" mj-class="text">Now we are making concepts in two weeks. One week designers work on the mindmap, logic and navigation of the app, create a roadmap and define the basic functionality. The second week they make the visual concept and demo for the client. This way, we can not only create realistic expectations for the client but also fulfill them.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Presentation to the client</mj-text>
+        <mj-text css-class="text" mj-class="text">Project manager showed the concept to the client and explained the designer’s decisions. These were 2-3 screens in Figma looking like shots on Dribbble. Two days are not enough to make both the concept and the presentation. Clients rarely understood what the managers were showing them.</mj-text>
+        <mj-text css-class="text" mj-class="text">Now clients can view detailed presentations on Readymag. Designers show finished screens, animations and explain the logic of the app. As a result — the clients have fewer questions.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">References</mj-text>
+        <mj-text css-class="text" mj-class="text">Earlier, we asked clients to give us positive references. Great tool for making cool concepts, but this ‘cool’ should work for the target audience and look different from the competitors. But when you have 300 requests ‘Make like Airbnb, please’ — it becomes a problem.</mj-text>
+        <mj-text css-class="text" mj-class="text">Now managers ask for negative references too. This way we know exactly what not to do while making the concept. We do not put ourselves in the box of positive references. It means that there will be fewer apps with the Airbnb-like interface.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Fictional design-team</mj-text>
+        <mj-text css-class="text" mj-class="text">Earlier, one designer worked on one project. Sometimes there could be other people involved in the process, but two designers never worked on one project. Teamwork happened only during the weekly planning. Designers didn’t share their expertise and experience with each other.</mj-text>
+        <mj-text css-class="text" mj-class="text">UI/UX designers needed a leader. That's how senior designers appeared in our team — they start projects and prepare visuals together with less experienced designers. Two designers on a project — now it looks like a real team. We created conditions for the experience exchange.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Trying to be better</mj-text>
+        <mj-text css-class="text" mj-class="text">We had no process, no team, no understanding of how to get things right. The workload on designers was unevenly distributed. We have always worked, are working, and will continue to work on our mistakes. Sometimes it happened that we found a solution to a problem, but it didn't get better. But we did not give up, and tried to find another approach.</mj-text>
+        <mj-text css-class="text" mj-class="text">Everyone makes mistakes, but not everyone admits them. As Confucius said: <br/> <b><em>‘A man who has committed a mistake and doesn't correct it is committing another mistake.’</em></b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="post-section post-section--main" mj-class="post-section" >
+      <mj-column >
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center"><b>How we built the design process, created a real team and solved our problems — read more by clicking at the link below</b></mj-text>
+        <mj-button css-class="post-section__button" href="https://www.purrweb.com/services/ui-ux/?utm_source=email&utm_medium=from-amocrm&utm_campaign=design-process" mj-class="post-section__button">Read it!</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Dmitrieva 1/8, Omsk, Russia, 644123 <br/>2021 Purrweb. All rights reserved</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center">
+        <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=03b481897c" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+  </mj-body>
+</mjml>

@@ -1,0 +1,175 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>Дизайнеры рекомендуют — 11 UX практик успешного eCommerce приложения</mj-title>
+      <mj-text padding="0 8.6%"></mj-text>
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="22px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        .text {
+          
+          padding-left:15px !important;
+          padding-right: 15px !important;
+        }
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body >
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/ce94112b-4b00-dfc7-187c-0636cb560cd3.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Привет!</mj-text>
+        <mj-text css-class="text" mj-class="text">На связи Purrweb: разрабатываем для стартапов MVP, десктопные, мобильные и веб-приложения, проектируем крутые UI/UX интерфейсы. А еще помогаем проектам выйти на рынок за 3 месяца.</mj-text>
+        <mj-text css-class="text" mj-class="text">Факторов успеха eCommerce приложений много, обо всех долго рассказывать. Мы ценим твое время, поэтому поговорим об одном из ключевых — UX дизайне. Наши дизайнеры собрали 11 UX практик для eCommerce проекта.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">1.Простая регистрация и онбординг</mj-text>
+        <mj-text css-class="text" mj-class="text">— Визуальной или текстовой подсказкой можно заменить поле? — так и сделайте. Человек быстрее зарегистрируется.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Если предлагаете уникальные функции, помогите человеку разобраться — добавьте онбординг.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">2. Изображения и интуитивно понятные жесты</mj-text>
+        <mj-text css-class="text" mj-class="text">— Добавьте изображение к каждому продукту — пользователю будет легче решиться на покупку.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Если у товара мелкие детали — добавьте функцию увеличения фотографии.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">3. Поиск и фильтрация товаров</mj-text>
+        <mj-text css-class="text" mj-class="text">— Чем больше товаров предлагаете, тем сильнее нужна фильтрация.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Расположите поиск под панелью быстрого доступа — никто не будет искать поле ввода в конце экрана.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Сохраняйте поисковые запросы — люди не всегда покупают в моменте.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">4. Быстрая загрузка</mj-text>
+        <mj-text css-class="text" mj-class="text">— Балансируйте между качеством фотографий и временем загрузки. Медиафайлы больше всего замедляют загрузку, поэтому не гонитесь за Ultra HD. Людям не нравится ждать.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">5. Автозаполнение</mj-text>
+        <mj-text css-class="text" mj-class="text">— Добавьте функцию автозаполнения — не заставляйте пользователя заново писать одно и то же.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Дайте человеку зарегистрироваться через социальные сети — все поля с личной информацией заполнятся сами.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">6. Правильная зона взаимодействия</mj-text>
+        <mj-text css-class="text" mj-class="text">— Убедитесь, что важные элементы адаптированы под большой палец — человеку будет удобнее с ними взаимодействовать.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">7. Корзина покупок</mj-text>
+        <mj-text css-class="text" mj-class="text">— Сохраняйте товары в корзине покупок — человеку не нужно будет заново искать товары, если придется отложить покупку.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Вишлист — хороший инструмент для сохранения товаров.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">8. Безопасность приложения</mj-text>
+        <mj-text css-class="text" mj-class="text">— Сделайте акцент на графических элементах и словах «шифрование», «безопасность» — так вы сможете убедить пользователя в надежности сервиса.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Подтверждение операций через Touch ID и Face ID повысит уровень доверия к сервису.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">9. Быстрое оформление заказа</mj-text>
+        <mj-text css-class="text" mj-class="text">— Добавьте возможность покупать без регистрации.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Сделайте визуальные подсказки для каждого шага оформления заказа.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">10. Минимализм — хорошо</mj-text>
+        <mj-text css-class="text" mj-class="text">— Не делайте кучу надоедливых всплывающих окон и форм для заполнения.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Минимализм работал, работает и будет работать.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">11. Инструменты аналитики приложений</mj-text>
+        <mj-text css-class="text" mj-class="text">— Изучите юзер флоу в приложении — вы поймете паттерны совершения целевого действия и поведения пользователей.</mj-text>
+        <mj-text css-class="text" mj-class="text">— Анализируйте фидбек клиентов и адаптируйте приложение.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section" padding="0">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">Приятный пользовательский опыт — большой шаг вперед на пути к сердцу человека. <br />И помните: удобство, простота и привлекательность важны для пользователя!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text" align="center">Подборка была полезной? В блоге мы делимся опытом разработки проектов, советами от наших дизайнеров и разработчиков, а еще рассказываем про подводные камни и нюансы запуска стартапа.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="post-section post-section--main" mj-class="post-section" >
+      <mj-column >
+        <mj-image href="https://www.purrweb.com/blog/ru/rozhden-dlya-konversii-top-x-ux-praktik-dlya-prilozheniya-ehlektronnoj-kommercii/?utm_source=email&utm_medium=from-amocrm-ru&utm_campaign=11-ux-priemov-dlya-ecommerce" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/0488982f-67df-ef51-1a1d-79f64691200f.png" />
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center">Дизайн интерфейсов, UX дизайн: eCommerce конверсия</mj-text>
+        <mj-button css-class="post-section__button" href="https://www.purrweb.com/blog/ru/rozhden-dlya-konversii-top-x-ux-praktik-dlya-prilozheniya-ehlektronnoj-kommercii/?utm_source=email&utm_medium=from-amocrm-ru&utm_campaign=11-ux-priemov-dlya-ecommerce" mj-class="post-section__button">Поехали!</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="post-section" mj-class="post-section">
+      <mj-column >
+        <mj-image href="https://www.purrweb.com/blog/ru/10-luchshih-ux-agentstv/?utm_source=email&utm_medium=from-amocrm-ru&utm_campaign=11-ux-priemov-dlya-ecommerce" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/ea79443f-dd06-2bbd-34a7-bf239f27a352.png" />
+        <mj-text css-class="text" mj-class="text post-section__text" align="center">10 лучших UX агентств для вашего проекта</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="post-section" mj-class="post-section">
+      <mj-column >
+        <mj-image href="https://www.purrweb.com/blog/ru/3-proverennye-strategii-sozdaniya-konkurentosposobnogo-marketplace-prilozheniya/?utm_source=email&utm_medium=from-amocrm-ru&utm_campaign=11-ux-priemov-dlya-ecommerce" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/5e831ca1-2bef-4afc-5c44-84dbf4ddb05a.png" />
+        <mj-text css-class="text" mj-class="text post-section__text" align="center">3 проверенные стратегии создания конкурентоспособного маркетплейса</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Дмитриева 1/8, Омск, Россия, 644123 <br/>2021 Purrweb. Все права защищены</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center"><a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=2708541522" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

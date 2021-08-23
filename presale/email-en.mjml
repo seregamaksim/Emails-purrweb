@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>How much does it cost to develop a product and what processes do you pay for?</mj-title>
+      <!-- <mj-text padding="0 8.6%"></mj-text> -->
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="10px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      .rectangle {
+        display: inline-block;
+        width: 6px;
+        height: 6px;
+        background-color: #000000;
+        margin-right: 20px;
+      }
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body >
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/40ba85be-83b4-4fc6-57ae-9f2dc07114c3.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text"><b>Привет</b>, it’s Purrweb. We design UI/UX interfaces, develop MVPs, and help young entrepreneurs to enter the market within 3 months.</mj-text>
+        <mj-text css-class="text" mj-class="text">Let’s say you’ve got everything: an idea, a budget, and the desire to create an app that will make someone else’s life better. However, you don’t know how much it may cost you — that’s why you put it into ‘cold storage’ and never come back to it again. We are here to show you that it’s easy to start by getting an estimate.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">The statistics say that:</mj-text>
+        <mj-text css-class="text" mj-class="text"> — We estimate up to <b>16</b> projects a week</mj-text>
+        <mj-text css-class="text" mj-class="text"> — Average estimation time — <b>6-8</b> hours</mj-text>
+        <mj-text css-class="text" mj-class="text"> — <b>92%</b> of our estimates of design projects match the final budget</mj-text>
+        <mj-text css-class="text" mj-class="text">It’s time to talk about the process. At Purrweb, the Presale process begins with a ticket: the account manager gives a business analyst brief information on the project — who is the client, a link to the project materials, what needs estimation (for example, UI/UX design and frontend development), and the due date.</mj-text>
+        <mj-text css-class="text" mj-class="text">Along with the ticket, the account manager prepares a presale summary — a document that contains 2 parts. The first one includes detailed information about the client, the desired functionality and design. The second — what type of app  is needed (web, desktop, or mobile), the client’s expectations on the budget and their materials.</mj-text>
+        <mj-text css-class="text" mj-class="text">If the client needs development — the business analyst will estimate the project with the teamlead; if the client needs design — with the lead designers. These guys know their teams and understand how much time it will take them to complete each task.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Tools that we use:</mj-text>
+        <mj-text css-class="text" mj-class="text"> — Separate Slack channel — it allows us to save the work history and keep all tickets in a separate place</mj-text>
+        <mj-text css-class="text" mj-class="text"> — Call summary — to save the presale information</mj-text>
+        <mj-text css-class="text" mj-class="text"> — Template for estimation — it’s a table that contains core features of any project that we group into user scenarios to make the estimation process faster</mj-text>
+        <mj-text css-class="text" mj-class="text"> — Checklist for forgettable things. There are things that can be accidentally forgotten — icons, admin panel. We created a checklist to remember about them and use it as a guide for each incoming project</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">What does an estimate give you?</mj-text>
+        <mj-text css-class="text" mj-class="text">The estimation helps to understand what budget is needed to launch a startup. If you decide to develop an app, you will already have information about hours and money needed for each part: design, frontend, backend, QA testing, and project management. We made our processes more transparent and clear not only for clients but also for ourselves. That’s why our clients always receive an accurate estimate and a development roadmap that describes the manhours and cost of work.</mj-text>
+        <mj-text css-class="text" mj-class="text">The Presale stage has strict limits — when entrepreneurs come to us for estimation, they always know when they will get the estimate. In addition, we carefully store information about every project — even if an entrepreneur takes a break to think over and comes back in a year, we can easily find all the data and start working on the project without wasting time on researching the project again.</mj-text>
+        
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="post-section post-section--main" mj-class="post-section" >
+      <mj-column >
+        <mj-image href="https://www.purrweb.com/services/ui-ux/?utm_source=email&utm_medium=from-amocrm&utm_campaign=how-much-does-your-idea-cost" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/a8af6e64-0d60-7a49-2769-2cb683575974.png" />
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center"><b>Our previous project estimation methods were good but not perfect. We wrote an article about the presale processes at Purrweb — you can learn more by clicking on the link below.</b></mj-text>
+        <mj-button css-class="post-section__button" href="https://www.purrweb.com/services/ui-ux/?utm_source=email&utm_medium=from-amocrm&utm_campaign=how-much-does-your-idea-cost" mj-class="post-section__button">Learn about the estimation process</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Отписка -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Dmitrieva 1/8, Omsk, Russia, 644123 <br/>2021 Purrweb. All rights reserved</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center"><a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=2708541522" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+  </mj-body>
+</mjml>

@@ -1,0 +1,83 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>СПАСИБО,ЧТО ТЫ ТЕПЕРЬ С НАМИ</mj-title>
+      <mj-class name="title" font-size="14px" line-height="18px" font-weight="bold" text-transform="uppercase" padding-bottom="8px"></mj-class>
+      <mj-class name="mini-title" font-size="12px" line-height="18px" font-weight="bold" text-transform="uppercase" padding-bottom="5px"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="button" padding-top="20px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      #canspamBarWrapper {
+        display: none !important;
+      }
+    </mj-style>
+  </mj-head>
+  </mj-head>
+  <mj-body >
+    
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/4a3d9bb3-d042-a608-82aa-897b28c2a339.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="text">Purrweb в 2014 — 2 фрилансера</mj-text>
+            <mj-text mj-class="text">Purrweb сейчас — команда из 86 человек, среди которых больше 40 разработчиков. А еще у нас есть графические дизайнеры, UI/UX дизайнеры, проектные менеджеры и копирайтеры, которые написали это письмо для тебя :)</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">КТО МЫ И ЧЕМ МОЖЕМ ПОМОЧЬ?</mj-text>
+            <mj-text mj-class="text"> — Проектируем крутые UI/UX интерфейсы</mj-text>
+            <mj-text mj-class="text"> — Создаем мобильные, веб- и десктопные приложения</mj-text>
+            <mj-text mj-class="text"> — Помогаем стартапам выйти на рынок за 3 месяца</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">КАК МЫ РАБОТАЕМ?</mj-text>
+            <mj-text mj-class="mini-title">AGILE & SCRUM</mj-text>
+            <mj-text mj-class="text">В течение 6 лет мы с нуля создавали рабочие процессы: в разработке, дизайне, коммуникациях с заказчиком и управлении проектами.</mj-text>
+            <mj-text mj-class="mini-title">УНИВЕРСАЛЬНЫЙ СТЕК ТЕХНОЛОГИЙ</mj-text>
+            <mj-text mj-class="text">Не «распыляемся» и работаем только с JavaScript и Typescript. Пишем код на React, React Native, Node.js и Electron.js — такой стек дает полную гибкость и позволяет разрабатывать мобильные, веб- и десктопные приложения.</mj-text>
+            <mj-text mj-class="mini-title">ДИЗАЙН В ПРИОРИТЕТЕ</mj-text>
+            <mj-text mj-class="text">Из кучи аналогов люди выбирают самые удобные сервисы. Мы уверены, что любое приложение должно дарить пользователю приятные ощущения — с этим поможет UI/UX дизайн, о котором еще поговорим в следующем письме.</mj-text>
+            <mj-text mj-class="mini-title">НАХОДИМСЯ В РОССИИ</mj-text>
+            <mj-text mj-class="text">Наш офис расположен в Омске. Это университетский город в Сибири, в котором медведи гуляют по улицам, а зимой очень холодно. Поэтому наши дизайнеры рисуют даже при -30 °C, а разработчики — бесстрашно пишут код.</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="title">КЕЙСЫ ГОВОРЯТ ЗА НАС</mj-text>
+            <mj-text mj-class="text"> — В 2017 году разработали кликабельный прототип медицинского стартапа, который помог заказчикам привлечь $400 тыс.</mj-text>
+            <mj-text mj-class="text"> — В 2019 создали Eventignite — приложение для организаторов мероприятий, которое доказало свою эффективность на таких крупных ивентах Европы, как BETT Show 2019, IPEXPO Europe 2019, Digital Transformation EXPO Europe 2019, Festival of Marketing 2019.</mj-text>
+            <mj-text mj-class="text"> — В 2020 разработали приложение для арендаторов пауэрбанков — Energo. К марту 2021 года в Москве размещено 700 станций.</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="text" align="center" padding-bottom="0">
+                А есть еще кейсы? <br />
+                — Конечно!
+            </mj-text>
+            <mj-button mj-class="button" href="https://www.purrweb.com/portfolio/ru">
+                Хочу посмотреть
+            </mj-button>
+        </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Дмитриева 1/8, Омск, Россия, 644123 <br/>2021 Purrweb. Все права защищены</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center"><a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=2708541522" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

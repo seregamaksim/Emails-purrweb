@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>Tools for a startup that will help you prioritize features and hit the market in no time</mj-title>
+      <!-- <mj-text padding="0 8.6%"></mj-text> -->
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="10px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      .rectangle {
+        display: inline-block;
+        width: 6px;
+        height: 6px;
+        background-color: #000000;
+        margin-right: 20px;
+      }
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body >
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/fd7f560c-aeb6-a69c-b15e-ecf889abcd80.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text"><b>Hello!</b> We are Purrweb. We develop MVPs for startups with a focus on UI/UX design and help entrepreneurs enter the market within 3 months.</mj-text>
+        <mj-text css-class="text" mj-class="text">According to Failory, 9 out of 10 startups fail. The most common reason is  a poorly-made market research and not enough feedback. Read on to find  out how to become the one who succeeds.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Key features of an app</mj-text>
+        <mj-text css-class="text" mj-class="text">It’s hard to understand what features are essential to make it to the release. Sometimes, a startup has the time or budget limits. We’ve chosen 2 tools that will help you to prioritize the features of the product.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">User Story Mapping</mj-text>
+        <mj-text css-class="text" mj-class="text">This method helps to prioritize features from the user’s point of view. USM recreates all the steps the user takes in an app: from launching the app  to performing the desired action (for instance, purchasing flowers). To build  a story map, you need to:</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text"> — <b>Set goals</b>. You need to understand clearly why you want to do your startup.</mj-text>
+        <mj-text css-class="text" mj-class="text"> — <b>Come up with a user journey</b>. You need to understand what steps are needed for users to achieve their goals in the app.</mj-text>
+        <mj-text css-class="text" mj-class="text"> — <b>Write down features needed for each step</b>. You need to make a list of all features needed for the user at a particular step.</mj-text>
+        <mj-text css-class="text" mj-class="text"> —  <b>Prioritize things</b>. You need to rank features from must-haves to won’t-haves. The more important a feature is to the user, the higher the feature is ranked.</mj-text>
+        <mj-text css-class="text" mj-class="text"> —  <b>Build the MVP</b>. Start with high-priority features for each step. It’ll be enough to test your idea.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">MoSCoW</mj-text>
+        <mj-text css-class="text" mj-class="text">This tool helps you rate the importance of each feature. The criteria are: value to the user, complexity, and cost of development. All the functions are divided into 4 groups: must, should, could, and would. The team starts with the first group and continues developing other features.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text"> — <b>Must</b> — essential features. You cannot jump into the market without these features.</mj-text>
+        <mj-text css-class="text" mj-class="text"> — <b>Should</b> — important features that are not this crucial for the first version of the app. You’ll need to implement these features later on though.</mj-text>
+        <mj-text css-class="text" mj-class="text"> — <b>Could</b> — nice-to-have features. It’s always nice to have these features in the app, however, you don’t need to implement these features to test the idea. Don’t rush around them.</mj-text>
+        <mj-text css-class="text" mj-class="text"> —  <b>Would</b> — these features are also called ‘will not have (this time)’. They are not critical for the app to succeed, so it’s better to put them aside till better days.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">Any method of prioritizing features will be affected by subjective evaluation. At least, you’ll have a strategic overview and a better understanding of the project. The strategy may be adjusted during the development. Try these tools in action — pick the features for your MVP easier.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="post-section post-section--main" mj-class="post-section" >
+      <mj-column >
+        <mj-image href="https://www.purrweb.com/services/ui-ux/?utm_source=email&utm_medium=from-amocrm&utm_campaign=user-story-mapping" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/dddff60f-dcc8-be93-92e0-fffc5e370b36.png" />
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center"><b>Check out the full article — it includes comprehensive<br /> instruction and examples.</b></mj-text>
+        <mj-button css-class="post-section__button" href="https://www.purrweb.com/services/ui-ux/?utm_source=email&utm_medium=from-amocrm&utm_campaign=user-story-mapping" mj-class="post-section__button">Wanna see examples!</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Dmitrieva 1/8, Omsk, Russia, 644123 <br/>2021 Purrweb. All rights reserved</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center"><a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=2708541522" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+  </mj-body>
+</mjml>
