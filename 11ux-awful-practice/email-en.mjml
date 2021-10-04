@@ -1,0 +1,145 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>11 awful design practices for interfaces: how to spoil startup</mj-title>
+      <mj-text padding="0 8.6%"></mj-text>
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="22px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        .text {
+          padding-left:15px !important;
+          padding-right: 15px !important;
+        }
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body >
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/6d58304d-99cc-4278-9565-24c94f2429a5.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">There are no ready-made decisions in design. Interfaces are much deeper than design trends. There won’t be ‘amazing’ recommendations, we’ve chosen another way: we’ll tell you what not to do. Senior designers of Purrweb have collected 11 awful practices in UI/UX design that can alienate the audience.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">1. Oceans of text</mj-text>
+        <mj-text css-class="text" mj-class="text">The users read everything, they need more texts, the more — the merrier. Don’t you dare structurize the content and deflect the attention of users with headings, paragraphs, and especially pictures. Each user would like to read how wonderful London is, not look at pictures.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">2. Stock photos</mj-text>
+        <mj-text css-class="text" mj-class="text">If you need photos, search for them on photo stock, it’s much better if they are free. What’s the point of buying illustrations when there are billions of them on the Internet?</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">3. No accents</mj-text>
+        <mj-text css-class="text" mj-class="text">Is there a lot of formal information without points of attention? Congratulations, that’s the right app interface. You don’t need to highlight anything against general composition, the users can find everything by themselves. There’s a will, there's a way.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">4. Best possible quality of photos</mj-text>
+        <mj-text css-class="text" mj-class="text">Use only 4k Ultra HD pictures. Give the users an opportunity to examine every single detail and flip over quality.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">5. Colorful images</mj-text>
+        <mj-text css-class="text" mj-class="text">The users like juicy images, that's why you should choose the brightest of them. Combine light images and white-colored text. Have you ever heard that an image should match the meaning of the text? Forget about it, just use the most beautiful picture.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">6. No filters</mj-text>
+        <mj-text css-class="text" mj-class="text">Do not use filters, why should you explain simple things? If the users want to take a trip, they will manage to find a tour.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">7. Complicated navigation</mj-text>
+        <mj-text css-class="text" mj-class="text">Make navigation complicated — let users take an unforgettable journey through your app. If you want to make users happy, use identical buttons everywhere.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">8. No reviews</mj-text>
+        <mj-text css-class="text" mj-class="text">Don’t let users share their impressions! They will write only negative feedback to spoil your reputation. But if you decide to add such an ability, delete all bad reviews and write good ones by yourself.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">9. Choosing colors</mj-text>
+        <mj-text css-class="text" mj-class="text">Each niche has its right colors, for travel apps it’s green, orange, and blue. Combine them as you like, they’ll make the interface dynamic. You can choose the colors based on your preferences, you like it = everybody likes it.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">10. Choosing fonts</mj-text>
+        <mj-text css-class="text" mj-class="text">Follow the recipe: take fashionable font that is non-legible (you can replace it with a trendy one), use it in the headings, subheadings, or other types, and the final touch — add any classic typeface. That’s your ideal font for the interface.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">11. Integration</mj-text>
+        <mj-text css-class="text" mj-class="text">Stuff that you don’t need.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">What’s next</mj-text>
+        <mj-text css-class="text" mj-class="text">If you want to test your idea, launch the startup and attract the audience — remember these horrible practices and never use them. Okay, we’ve told you how not to do it, but how to do it well?</mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section css-class="post-section post-section--main" mj-class="post-section" >
+      <mj-column >
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center"><b>In the article on the link below our senior designers comment awful design practices and explain, why it’s better to think about users and don’t search for “magical pills”</b></mj-text>
+        <mj-button css-class="post-section__button" text-transform="uppercase" href="https://www.purrweb.com/services/ui-ux/?utm_source=email&utm_medium=from-amocrm&utm_campaign=11-awful-design-practices" mj-class="post-section__button">Want some advice!</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Dmitrieva 1/8, Omsk, Russia, 644123 <br/>2021 Purrweb. All rights reserved</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center"><a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=2708541522" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

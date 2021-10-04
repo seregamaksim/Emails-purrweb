@@ -1,0 +1,146 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>11 вредных советов для интерфейса: как испортить стартап</mj-title>
+      <mj-text padding="0 8.6%"></mj-text>
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="20px" background-color="#fff" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="22px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 69px" border-radius="0" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        .text {
+          
+          padding-left:15px !important;
+          padding-right: 15px !important;
+        }
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body >
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/456a1182-bf9f-782f-2c59-7eae5949424c.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">Готовых решений в дизайне не существует. Интерфейсы намного глубже, чем «в топе dark mode, делаем dark mode». Мы не будем рассказывать  про «чудесные» рекомендации, пойдем другим путем: расскажем, как делать не нужно. Старшие дизайнеры в Purrweb собрали 11 вредных практик в UI/UX дизайне, которые оттолкнут аудиторию.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">1. Океаны текста</mj-text>
+        <mj-text css-class="text" mj-class="text">Пользователи всегда будут читать все подряд, им нужно много текста, чем больше — тем лучше. Даже не думайте структурировать контент, отвлекать пользователя какими-то заголовками, абзацами и тем более иллюстрациями. Человек лучше прочитает, как прекрасен Лондон,  чем посмотрит фотографии города.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">2. Стоковые фотографии</mj-text>
+        <mj-text css-class="text" mj-class="text">Берите только такие, лучше бесплатные. Зачем платить за какие-то иллюстрации, если в интернете миллиарды классных картинок?</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">3. Без акцентов</mj-text>
+        <mj-text css-class="text" mj-class="text">Много сухой информации и нет никаких точек внимания? Прекрасно, таким и должен быть интерфейс приложения. Не нужно ничего выделять из общей композиции, человек сам найдет то, что ему нужно. Кто ищет — тот всегда найдет.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">4. Максимальное качество фотографий</mj-text>
+        <mj-text css-class="text" mj-class="text">Только самое лучшее качество, только 4K Ultra HD, только хардкор. Дайте пользователям рассмотреть каждую мельчайшую деталь картинки, пусть они офигеют от качества.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">5. Яркие картинки</mj-text>
+        <mj-text css-class="text" mj-class="text">Пользователи любят сочные картинки, поэтому берите только самые яркие изображения. Иллюстрации со светлыми оттенками отлично смотрятся вместе с текстом белого цвета. Слышали, что картинка должна сочетаться с текстом в смысловом плане? Забудьте, просто используйте самое красивое изображение.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">6. Без фильтров</mj-text>
+        <mj-text css-class="text" mj-class="text">Не делайте фильтры, зачем разжевывать человеку простые вещи. Если пользователь хочет отправиться в путешествие, то сам справится с поиском тура.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">7. Сложная навигация</mj-text>
+        <mj-text css-class="text" mj-class="text">Сделайте сложную навигацию — устройте пользователю незабываемое путешествие по приложению. Чтобы еще больше порадовать целевую аудиторию, используйте везде одинаковые кнопки.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">8. Никаких отзывов</mj-text>
+        <mj-text css-class="text" mj-class="text">Не давайте пользователям делиться своими впечатлениями! Они специально будут писать плохие отзывы, чтобы испортить вашу репутацию. Если вы все-такие решили добавить эту возможность, обязательно удаляйте негативные отзывы и сами пишите хорошие.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">9. Выбор цвета</mj-text>
+        <mj-text css-class="text" mj-class="text">В каждой нише есть правильные цвета, для трэвел приложений это зеленый, оранжевый и синий. Сочетайте их как угодно, главное чтобы было динамично. Можно выбрать цвета, исходя из своих предпочтений, нравится вам = нравится всем.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">10. Выбор шрифта</mj-text>
+        <mj-text css-class="text" mj-class="text">Рецепт такой: берете модный, сложно читаемый шрифт (можно заменить на просто трендовый), используете его в заголовках, подзаголовках, как наборный и последним штрихом разбавляете это дело классической гарнитурой. Идеальный шрифт для интерфейса готов.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">11. Интеграции</mj-text>
+        <mj-text css-class="text" mj-class="text">Ненужная ерунда.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">Что дальше</mj-text>
+        <mj-text css-class="text" mj-class="text">Если хотите протестировать идею, запустить стартап и привлечь аудиторию — запомните эти ужасные вещи и никогда не применяйте их. Окей, как делать не нужно мы рассказали, но как же тогда сделать хорошо?</mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section css-class="post-section post-section--main" mj-class="post-section" >
+      <mj-column >
+        <mj-text css-class="text post-section__text" mj-class="text post-section__text" align="center"><b>В статье по ссылке ниже старшие дизайнеры комментируют вредные советы и объясняют, почему лучше думать о пользователях, а не искать «волшебные пилюли»</b></mj-text>
+        <mj-button css-class="post-section__button" text-transform="uppercase" href="https://www.purrweb.com/ru/uslugi/ui-ux-dizajn/?utm_source=email&utm_medium=from-amocrm-ru&utm_campaign=11-vrednyh-sovetov" mj-class="post-section__button">Хочу комментарии!</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Дмитриева 1/8, Омск, Россия, 644123 <br/>2021 Purrweb. Все права защищены</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center"><a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=2708541522" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
