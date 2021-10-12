@@ -1,0 +1,148 @@
+<mjml>
+  <mj-head>
+  	<mj-attributes>
+      <mj-title>Breathing app development: how to defeat App Store and adapt business to new conditions.</mj-title>
+      <mj-class name="title" font-size="14px" line-height="30px" font-weight="bold" padding-bottom="12px" padding-top="0"></mj-class>
+      <mj-class name="text" font-size="14px" line-height="18px" padding-bottom="8px" padding-top="0"></mj-class>
+      <mj-class name="text-section" padding="0" padding-bottom="15px" background-color="#fff" />
+      <mj-class name="info-text" font-size="12px" line-height="24px" color="#797979" />
+      <mj-class name="post-section" background-color="#fff" padding="0" />
+      <mj-class name="post-section__text" padding-top="10px" />
+      <mj-class name="post-section__button" padding-top="22px" background-color="#5C3BFE" text-transform="uppercase" font-size="16px" line-height="18px" font-weight="bold" color="#fff" align="center" inner-padding="18px 47px" border-radius="0" />
+      
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      
+    </mj-attributes>
+    <mj-style>
+      #canspamBarWrapper {
+        display: none !important;
+      }
+      .post-section {
+        padding-bottom: 30px !important;
+      }
+      .post-section--main {
+        padding-bottom: 63px !important;
+      }
+      
+      @media (max-width: 400px) {
+        
+        .post-section {
+          padding-bottom: 10px !important;
+        }
+        .post-section--main {
+          padding-bottom: 40px !important;
+        }
+        .post-section__text {
+          padding-top: 10px !important;
+        }
+        .post-section__button {
+          padding-top: 10px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  </mj-head>
+  <mj-body >
+    
+    <mj-section background-color="#fff" padding="0" padding-bottom="40px">
+      <mj-column >
+        <mj-image width="640px" padding="0" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/3bbd1ca4-15fd-14be-8656-c2be61c21270.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="text">Every year more and more companies go online, and the pandemic is only increasing the number of applicants. This happened to our customers, Carolina and Dominik from Singapore.</mj-text>
+        <mj-text css-class="text" mj-class="text">Their business was related to yoga and breathing practices, and when coronavirus hit, they decided to switch to digital format. Plus, since most people started to work remotely, the profitability of mobile health and fitness apps increased by about 280%.</mj-text>
+        <mj-text css-class="text" mj-class="text">Initially, Dominic and Carolina wanted us to create UI/UX design and planned to hire another company for the development. But during phone meetings we agreed on creating the MVP of Breathmethod app. We faced the challenge: how to bring the client’s idea to life, make the app stand out from famous competitors and help the client prepare for the second wave of Covid-19.</mj-text>
+        <mj-text css-class="text" mj-class="text">Sharing how we managed to complete the task and release the app👇🏻</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">1. Brought the client’s design vision to life</mj-text>
+        <mj-text css-class="text" mj-class="text">The clients knew what they wanted but had no idea how to accomplish it. They shared their preferences and asked to avoid illustrations, since it wouldn’t work for the target audience.</mj-text>
+        <mj-text css-class="text" mj-class="text">We combined gray concrete, lush green, light wood and made images with plants, rocks and water the core part of the design. Lively patterns and natural colors help users to relax and set their minds on breathing.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">2. Analyzed the market and ‘digitized’ breathing exercises</mj-text>
+        <mj-text css-class="text" mj-class="text">We compared major competitors and found out that most apps lacked breathing practices — so we decided to focus on them. Together with the client we included 3 types of content at the MVP stage:</mj-text>
+        <mj-table mj-class="text">
+          <tr style="text-align:left;">
+            <th style="padding: 0 15px 0 0;"></th>
+            <th></th>
+          </tr>
+          <tr>
+            <td style="padding: 5px; text-align: center; vertical-align: middle;"> 
+              <img width="6" src='https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/7e399dd3-ac37-250f-eab9-bbf4dda95896.png' />
+            </td>
+            <td style="padding: 5px 0 8px 20px;">articles about breathing and how it affects people</td>
+          </tr>
+          <tr>
+            <td style="padding: 5px; text-align: center; vertical-align: middle;"> 
+              <img width="6" src='https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/7e399dd3-ac37-250f-eab9-bbf4dda95896.png' />
+            </td>
+            <td style="padding: 0 0 8px 20px;">audio and video lessons on breathing that users can listen on the go</td>
+          </tr>
+          <tr>
+            <td style="padding: 5px; text-align: center; vertical-align: middle;"> 
+              <img width="6" src='https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/7e399dd3-ac37-250f-eab9-bbf4dda95896.png' />
+            </td>
+            <td style="padding: 0 0 8px 20px;">breathing exercises</td>
+          </tr>
+        </mj-table>
+        <mj-text css-class="text" mj-class="text">The app creates general mixes and special daily playlists. We developed the Pendulum mode. How it works — users choose breathing intervals and duration of exercise,  and the system generates a soundtrack so that the users can breathe in the beat of it.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">3. Implemented a complicated feature with the help of properly chosen stack</mj-text>
+        <mj-text css-class="text" mj-class="text">We used our good ol’ tech stack — React Native + Nest.js. React Native is great for mobile apps, especially for MVPs, since it saves money on development — it’s possible to develop an app both for iOS and Android.</mj-text>
+        <mj-text css-class="text" mj-class="text">The clients wanted users to be able to ‘practice breathing on the go’. We were worried that it would be difficult to play audio when the screen is locked but it turned out to be easy. We used parameters in React-Native-video library and once again were happy with the chosen stack.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">4. Bypassed Instagram restrictions</mj-text>
+        <mj-text css-class="text" mj-class="text">Carolina asked us to build a landing page and pull posts from the Breathmethod Instagram account on it. We used Gatsby.js for the landing page, and its plugin ‘gatsby-source-instagram’ to upload the posts.</mj-text>
+        <mj-text css-class="text" mj-class="text">Got access to the Instagram posts, created an algorithm that sorts the last 10 posts, and implemented a slider. Then connected our repository with the landing page to Netlify, a service for hosting web apps.</mj-text>
+        <mj-text css-class="text" mj-class="text">Then we faced a problem — Instagram reduced the functionality of the Gatsby plugin to fight with fakes, so we couldn’t monitor the posts automatically. We used Zapier to automate Netlify’s deployments and now we can update the Instagram feed on the landing page on a daily basis.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">5. Integrated with Apple ID in one day</mj-text>
+        <mj-text css-class="text" mj-class="text">The client insisted on integrating with Apple ID. It was the first time we had such a request from a client, so we thought that it would be difficult and take much time. In fact, we managed to finish everything in one day — we made it so that the app scans the device and finds out whether it has a Face ID/ Touch ID. If it doesn’t, the app will ask the user to think up a code.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="text-section">  
+      <mj-column >
+        <mj-text css-class="text" mj-class="title">6. Defeated the App Store and successfully released the project.</mj-text>
+        <mj-text css-class="text" mj-class="text">The store claimed that the Breathmethod app has no subscriptions and didn’t submit it for several weeks. We were persistent and sent them a lot of screenshots with proof. Finally, we made it — the app is now available on the App Store and Google Play.</mj-text>
+        <mj-text css-class="text" mj-class="text">Now we negotiate with the client to start the development of an Apple TV app, since the number of users is growing and the Breathmethod content is suitable for this video service.</mj-text>
+      </mj-column>
+    </mj-section>
+
+   <mj-section mj-class="text-section">
+        <mj-column>
+            <mj-text mj-class="text" align="center" padding-bottom="0">
+                Read the project <br/> details here👇🏻
+            </mj-text>
+            <mj-button mj-class="post-section__button" href="https://www.purrweb.com/blog/how-we-built-a-competitor-to-headspace-in-5-months/?utm_source=email&utm_medium=from-amocrm&utm_campaign=fighting-for-appstore-submission-during-covid-19-pandemic">
+                Wanna read!
+            </mj-button>
+        </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="info-text" align="center">Dmitrieva 1/8, Omsk, Russia, 644123 <br/>2021 Purrweb. All rights reserved</mj-text>
+        <mj-image width="50px" src="https://mcusercontent.com/473a0aafeeceda9d2e5db3ea5/images/058edee0-5005-e4ac-0c39-440ce64c6432.png" />
+        <mj-text align="center">
+        <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/unsubscribe?u=473a0aafeeceda9d2e5db3ea5&id=03b481897c" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">Unsubscribe</a> | <a class="488f65303b448ea3f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor f7f25fec2dc21cb760e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 60e99105d16bbd138eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8eea2471f83bc3dd8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 8b45e9af639accb4b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor b9aa063ac99e2e472177874d0ea618441a71028644d7d8cdaria-goto-anchor 2177874d0ea618441a71028644d7d8cdaria-goto-anchor 41a71028644d7d8cdaria-goto-anchor daria-goto-anchor" href="https://purrweb.us19.list-manage.com/track/click?u=473a0aafeeceda9d2e5db3ea5&amp;id=0727db9e3b&amp;e=5922bca95f" target="_blank" style="color:#5c3bfe;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:12px;line-height:24px;text-decoration:underline;">View this email in your browser</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Отписка -->
+  </mj-body>
+</mjml>
